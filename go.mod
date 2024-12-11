@@ -11,6 +11,7 @@ require (
 	github.com/prometheus/client_golang v1.13.0
 	github.com/sirupsen/logrus v1.9.0
 	golang.org/x/exp v0.0.0-20230626212559-97b1e661b5df
+	golang.org/x/time v0.0.0-20220722155302-e5dcc9cfc0b9
 )
 
 require (
@@ -39,10 +40,9 @@ require (
 	github.com/valyala/bytebufferpool v1.0.0 // indirect
 	github.com/valyala/fasttemplate v1.2.1 // indirect
 	go.uber.org/atomic v1.9.0 // indirect
-	golang.org/x/crypto v0.0.0-20220722155217-630584e8d5aa // indirect
-	golang.org/x/net v0.7.0 // indirect
-	golang.org/x/sys v0.5.0 // indirect
-	golang.org/x/text v0.7.0 // indirect
-	golang.org/x/time v0.0.0-20220722155302-e5dcc9cfc0b9 // indirect
+	golang.org/x/crypto v0.31.0 // indirect
+	golang.org/x/net v0.21.0 // indirect
+	golang.org/x/sys v0.28.0 // indirect
+	golang.org/x/text v0.21.0 // indirect
 	google.golang.org/protobuf v1.28.1 // indirect
 )
